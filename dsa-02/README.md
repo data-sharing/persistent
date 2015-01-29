@@ -1,8 +1,13 @@
-# Data Sharing in Academia Questionnaire (DSAQ)
+# Data Sharing in Academia Questionnaire
+
+## Authors
+
+Benedikt Fecher, Sascha Friesike, Marcel Hebing, and Stephanie Linek
 
 ## Files
 
-* `questionnaire-de.pdf` and `questionnaire-en.pdf`: The questionnaire in German and English language.
+* [questionnaire-de.pdf](https://github.com/data-sharing/persistent/raw/master/dsa-02/questionnaire-de.pdf): Questionnaire in German.
+* [questionnaire-en.pdf](https://github.com/data-sharing/persistent/raw/master/dsa-02/questionnaire-en.pdf): Questionnaire in English.
 
 ## Persistent Identifier
 
