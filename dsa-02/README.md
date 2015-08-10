@@ -8,6 +8,7 @@ Benedikt Fecher, Sascha Friesike, Marcel Hebing, and Stephanie Linek
 
 * [questionnaire-de.pdf](https://github.com/data-sharing/persistent/raw/master/dsa-02/questionnaire-de.pdf): Questionnaire in German.
 * [questionnaire-en.pdf](https://github.com/data-sharing/persistent/raw/master/dsa-02/questionnaire-en.pdf): Questionnaire in English.
+* [questionnaire.lss](https://github.com/data-sharing/persistent/raw/master/dsa-02/questionnaire.lss): Limesurvey questionnaire archive file.
 
 ## Persistent Identifier
 
