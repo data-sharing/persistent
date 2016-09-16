@@ -16,4 +16,4 @@ Please contact [Benedikt Fecher](mailto:fecher@hiig.de) regarding the data.
 
 ## Persistent Identifier
 
-http://dx.doi.org/10.5684/dsa-03
+http://doi.org/10.5684/dsa-03
