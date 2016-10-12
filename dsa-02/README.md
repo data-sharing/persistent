@@ -12,4 +12,4 @@ Benedikt Fecher, Sascha Friesike, Marcel Hebing, and Stephanie Linek
 
 ## Persistent Identifier
 
-http://dx.doi.org/10.5684/dsa-02
+http://doi.org/10.5684/dsa-02
