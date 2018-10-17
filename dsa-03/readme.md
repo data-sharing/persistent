@@ -14,7 +14,7 @@ We conducted the online survey from October to November 2014. It was administere
 
 Data privacy statement (from the questionnaire): Your participation in this survey is voluntary and your responses will be saved in anonymous form. No record is kept of any names or addresses. The data will be provided initially to the researchers involved for their own analysis and after approximately one year will be made available for secondary use by the academic research community under strict adherence to the legal data protection provisions applying to the Research Data Center of the Socio-Economic Panel (SOEP).
 
-For data acccess, please contact [Michaela Engelmann](http://www.diw.de/cv/de/mengelmann).
+For data acccess, please contact the [SOEPhotline](https://www.diw.de/en/diw_02.c.221183.en/contact.html).
 
 ## Persistent Identifier
 
